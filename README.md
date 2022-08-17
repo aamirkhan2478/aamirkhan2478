@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirkhan2478" alt="aamirkhan2478" /></a> </p>
 
 
+<a href="https://aamirkhan2478.github.io/aamir-portfolio.github.io/"><p align= "left"> <img src="https://img.shields.io/badge/Aamir%20Khan-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
+
 - 🔭 I’m currently working on **Todo List**
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
