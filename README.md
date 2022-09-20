@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aamir-khan-302a44237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir-khan-302a44237" height="30" width="40" /></a>
-<a href="https://fb.com/aamirkhan24789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aamirkhan24789" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxz9lVB01vGEIKP7x9LX69A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech4you - aamir khan" height="30" width="40" /></a>
 </p>
 
