@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirkhan2478&label=Profile%20views&color=0e75b6&style=flat" alt="aamirkhan2478" /> </p>
 
+<a href="https://wakatime.com/@0a9d1138-ce9f-40d3-bfab-4cc846380d97"><img src="https://wakatime.com/badge/user/0a9d1138-ce9f-40d3-bfab-4cc846380d97.svg" alt="Total time coded since Sep 21 2022" /></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirkhan2478" alt="aamirkhan2478" /></a> </p>
 
 
