@@ -46,5 +46,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamirkhan2478&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
 <hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamirkhan2478&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
-<hr/>
-<img src="https://activity-graph.herokuapp.com/graph?username=aamirkhan2478&theme=gotham" width="100%"/> 
+ 
