@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamirkhan2478" alt="aamirkhan2478" /></a> </p>
 
 
-<a href="https://aamirkhan2478.github.io/aamir-portfolio.github.io/"><p align= "left"> <img src="https://img.shields.io/badge/Aamir%20Khan-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
+<a href="https://aamirkhan2478.github.io/aamir-portfolio.github.io/" target="_blank"><p align= "left"> <img src="https://img.shields.io/badge/Aamir%20Khan-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
 
-- 🔭 I’m currently working on **Todo List**
+- 🔭 I’m currently working on **Chakra Chat**
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
@@ -37,7 +37,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  <a href="https://heroku.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/></a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/adobe_photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></a> <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
 
 <h3 align="left">Databases:</h3>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
 
 <h3 align="left">Others:</h3>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
