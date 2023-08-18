@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS**
 
-- 👨‍💻 All of my projects are available at [https://aamirkhan2478.github.io/aamir-portfolio.github.io/](https://aamirkhan2478.github.io/aamir-portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [Aamir Dev Dynamo](https://aamir-dev-dynamo.vercel.app/)
 
 - 💬 Ask me about **React JS, Node JS, Express JS, MongoDB**
 
